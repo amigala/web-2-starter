@@ -1,6 +1,8 @@
 # Web Design 2 Starter
 Starter(boilerplate) for all future projects. Don't start with blank files. 
 
+<img src="Web 2 Starter.png" />
+
 > Computers are dumb. Humans make them smart. 
 
 Starter (boilerplate) for all future projects.
