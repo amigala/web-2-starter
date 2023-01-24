@@ -1,5 +1,10 @@
 # Web Design 2 Starter
 
+<a 
+href="https://app.netlify.com/start/deploy?repository=https://github.com/amigala/web-2-starter">
+<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
+</a>
+
 web 2 starter images
 
 <!-- <img src="Web 2 Starter.png" /> -->
